@@ -1,0 +1,159 @@
+{
+    "Home": {
+        "short_ttl": "Detect objects on your MOBILE",
+        "title": "with high accuracy in real time.",
+        "desp": "AI Netra has been created for object detection. It uses machine learning technique to detect objects around you.",
+        "image": "assets/images/header-app.png",
+        "shape1": "assets/images/image-shape.svg",
+        "shape2": "assets/images/header-shape-2.svg"
+    },
+    "Why": [
+        {
+            "icon": "lni lni-layers",
+            "title": "Clean Design",
+            "text": "We uses clean and simple design to make your experience smooth and easy.",
+            "cls": "services-color-1"
+        },
+        {
+            "icon": "lni lni-layout",
+            "title": "Easy to Use",
+            "text": "It is very easy to use, and understand. Just move your device to detect objects.",
+            "cls": "services-color-2"
+        },
+        {
+            "icon": "lni lni-bolt",
+            "title": "Fast Loading",
+            "text": "It can be loaded in less than 2 second. It is very fast. and have size less than 20 MB.",
+            "cls": "services-color-3"
+        },
+        {
+            "icon": "lni lni-protection",
+            "title": "Hassle Free",
+            "text": "It doesn't store any user data, so, you can use it without any problem.",
+            "cls": "services-color-4"
+        }
+    ],
+    "About": {
+        "title": "Comes With Speech Synthesis.",
+        "desp": "AI Netra identifies the objects which are pointed by the camera and on tapping the object a voice is generated identifying the object, and it tell the object name immediately.",
+        "image": "assets/images/screenshot-2.png"
+    },
+    "Features": {
+        "title": "Awesome Key Features.",
+        "desc": "This app has these key features which makes it different from other apps.",
+        "image": "assets/images/screenshot-4.jpg",
+        "shape2": "assets/images/features-shape-1.svg",
+        "FeaturesBox": [
+            {
+                "icons": "lni lni-cup",
+                "title": "High Accuracy",
+                "body": "It can detect objects around you with high accuracy, even if the object is moving.",
+                "cls": "features-color-1"
+            },
+            {
+                "icons": "lni lni-grid-alt",
+                "title": "Multiple Objects, at a time",
+                "body": "It can detect Multiple objects, and will show you the objects with different colors of bounding boxes.",
+                "cls": "features-color-2"
+            },
+            {
+                "icons": "lni lni-timer",
+                "title": "Detection In Real Time",
+                "body": "This app uses MobileNet which has an inference time of 85% thus provides realtime detection and high frame rates.",
+                "cls": "features-color-3"
+            },
+            {
+                "icons": "lni lni-volume-high",
+                "title": "Voice Output",
+                "body": "It will speak the object name immediately when you tap on the object.",
+                "cls": "features-color-4"
+            },
+            {
+                "icons": "lni lni-close",
+                "title": "No Internet Required",
+                "body": "It doesn't require any internet connection to work. You can use it without any internet connection.",
+                "cls": "features-color-5"
+            }
+        ]
+    },
+    "Screenshots": {
+        "title": "App Screenshots.",
+        "slider": [
+            {
+                "sliderimg": "assets/images/screenshot-1.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-2.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-3.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-4.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-5.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-6.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-7.png"
+            },
+            {
+                "sliderimg": "assets/images/screenshot-8.png"
+            }
+        ]
+    },
+    "Testimonial": {
+        "title": "Team Members.",
+        "desc": "This app has been build as a final year project of our college \"Derozio Memorial College\". We are a team of three students who are working on this app, to make it better and more user friendly."
+    },
+    "Pricing": {
+        "title": "Our project contents.",
+        "desc": "Our project contents are as follows.",
+        "Pricingbox": [
+            {
+                "price": "Presentation Slide",
+                "text": "To know more about this project, you can check the google slide from here.",
+                "pricing_btn": "See Slide",
+                "site": "https://www.canva.com/design/DAFGjAFIelc/QUTb6EWtv90ml0zFdK8ugw/view?utm_content=DAFGjAFIelc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#34",
+                "cls": "pricing-active"
+            },
+            {
+                "price": "Project Report",
+                "text": "To know the methodology and techniques used in this project, you can check the project report.",
+                "site": "https://docs.google.com/document/d/1BLZlqCX_I2xR-R12wbDZwp4XiN7AYcvQI9JeHmzPNWk/edit?usp=sharing",
+                "pricing_btn": "See Report",
+                "cls": "pricing-active"
+            },
+            {
+                "price": "GitHub Repo",
+                "text": "To know the code used in this project, you can visit the GitHub repository.",
+                "site": "https://github.com/ShivamKumarSah/AI-Netra",
+                "pricing_btn": "Visit Repo",
+                "cls": "pricing-active"
+            }
+        ]
+    },
+    "Download": {
+        "title": "Scan the QR code or click on the button below to download the app",
+        "image": "assets/images/qr_code.png",
+        "downloadbox": [
+            {
+                "cls": "app-store"
+            }
+        ]
+    },
+    "Footer": {
+        "address": "AI Netra app has been created for object detection in real-time. It may be helpful in the field of robotics, security, automated cars, and surveillance cameras. It can also be useful for blind people to find objects around them, also objects detected in the vicinity will be presented in audio format to the user.",
+        "ttl1": "Quick Links",
+        "ttl2": "Support",
+        "ttl3": "Quick Link",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
